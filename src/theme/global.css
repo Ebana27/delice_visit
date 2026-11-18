@@ -1,0 +1,44 @@
+/*
+* global.css 
+* ../../index.html
+* Fichier qui contient le style global du site internet. 
+* body, html, *, element de base (a, li, tableau) etc
+*/
+
+/*Ce fichier hérite de base.css */
+@import('base.css');
+
+/* ----------------------------------------------------------- */
+                    /* STYLE DESKTOP */
+/* ----------------------------------------------------------- */
+
+* {
+    /*Regle de style*/
+}
+
+html {
+    /*Regle de style*/
+}
+
+body {
+    /*Regle de style*/
+}
+
+header {
+    /*Regle de style*/
+}
+
+main {
+    /*Regle de style*/
+}
+
+footer {
+    /*Regle de style*/
+}
+
+/* Styles des taleaux */
+
+
+/* ----------------------------------------------------------- */
+                    /* STYLE MOBILE */
+/* ----------------------------------------------------------- */
